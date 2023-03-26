@@ -1,1 +1,1 @@
-# My_Flutter_Repository
+This repository is intended to store my projects related to the discipline of mobile development at the Instituto Federal de São Paulo,campus São João da Boa Vista and the projects carried out during the Flutter course taught by Dr Angela Yu.
